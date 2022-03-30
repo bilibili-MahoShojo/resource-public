@@ -1,3 +1,3 @@
 # resource-public
 
-公共素材库
+> Bilibili UP主 [MahoShojo](https://space.bilibili.com/12761556) 开源素材库
